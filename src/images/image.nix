@@ -1,0 +1,5 @@
+{
+image.nix.enable = true;
+ }
+}
+ }
