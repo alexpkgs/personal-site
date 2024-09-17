@@ -1,1 +1,1 @@
-pages.articles.nix.page.github.git.gay.pages.enable = true;
+pages.articles.nix.page.github.git.gay.pages.flake.hm.enable = true;
